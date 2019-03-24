@@ -7,7 +7,7 @@
 
         <title>Laravel</title>
 
-        <h3>Hello</h3>
+       
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -67,6 +67,9 @@
         </style>
     </head>
     <body>
+
+        <h3>Hello</h3>
+        
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
